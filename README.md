@@ -4,6 +4,22 @@ Projeto de portfólio para apresentar a experiência visual e as principais func
 
 > Este repositório é exclusivamente demonstrativo. O código-fonte, identificadores de planilhas, integrações e dados operacionais permanecem em repositório privado.
 
+## Demonstração visual
+
+Todas as pessoas, identificadores, datas e resultados abaixo são fictícios.
+
+### Portal do Assistente — visão de desempenho
+
+![Dashboard fictício do Portal do Assistente](portal-assistente-dashboard.png)
+
+### Portal do Supervisor — central da operação
+
+![Dashboard fictício do Portal do Supervisor](portal-supervisor-dashboard.png)
+
+### Portal do Supervisor — rotina e escala
+
+![Calendário fictício de rotina do Portal do Supervisor](portal-supervisor-rotina.png)
+
 ## Visão geral
 
 O projeto é dividido em dois ambientes integrados:
@@ -48,7 +64,7 @@ O projeto é dividido em dois ambientes integrados:
 
 ## Privacidade
 
-As imagens públicas do projeto utilizam dados demonstrativos ou devidamente descaracterizados. Nenhum e-mail corporativo, matrícula, ID de planilha ou informação operacional sensível é publicado aqui.
+As imagens públicas utilizam somente dados demonstrativos. Nenhum e-mail corporativo, matrícula real, ID de planilha ou informação operacional sensível é publicado aqui.
 
 ## Autoria
 
